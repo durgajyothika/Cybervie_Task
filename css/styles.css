@@ -1,0 +1,19 @@
+body {
+    background-color: #F5F5F5 !important;
+}
+#minititle{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+label {
+    font-family: Montserrat;
+    font-weight: 300;
+    color: #707070;
+}
+.nav, .navbar {
+    padding-bottom: 0px !important;
+}
